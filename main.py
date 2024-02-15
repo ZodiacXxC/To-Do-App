@@ -2,7 +2,6 @@ from tkinter import INSERT, ttk , END ,messagebox
 import tkinter as tk
 import json
 import datetime
-from turtle import update
 
 initial_data = {}
 
